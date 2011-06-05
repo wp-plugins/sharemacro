@@ -1,0 +1,81 @@
+/* tooltip styling. by default the element to be styled is .tooltip  */
+.sharemacro-tooltip
+{
+    z-index:9999;
+    font-size:12px;
+    font-family:Verdana, Geneva, sans-serif;
+    /*color:#333;
+    background-color:#FFF;*/
+    min-width: 460px;
+}
+.sharemacro-tooltip-content
+{
+    padding:15px;
+}
+
+.sharemacro-tooltip-col
+{
+	position: relative;
+    margin:5px;
+    padding:0 5 0 0;
+    float:left;
+}
+
+.sharemacro-tooltip-col-title
+{
+    text-decoration:underline;
+    text-align:center
+}
+
+.sharemacro-tooltip-col label
+{
+    font-size:11px;
+}
+
+.sharemacro-tooltip-service-icon
+{
+    border:none;
+    margin-right:3px;
+	margin-left:3px;    
+}    
+
+.sharemacro-tooltip-footer
+{
+    text-align:right;
+}
+
+.sharemacro-tooltip-footer a
+{
+    border:none;
+    text-decoration: none;
+    /*color: #000*/
+}
+
+.sharemacro-widget img
+{
+	border:0
+}
+
+.sharemacro-logo
+{
+	font-size:14px;
+    font-family: "Century Gothic";
+}
+
+.sharemacro-link
+{
+text-decoration: none;
+}
+
+.sharemacro-icon
+{
+    vertical-align:text-bottom;
+    border:none;
+    margin-right: 5px;
+}
+
+.sharemacro-service-icon
+{
+    vertical-align:text-bottom;
+    margin-right: 3px;
+}
