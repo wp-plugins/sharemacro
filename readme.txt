@@ -1,8 +1,8 @@
 === ShareMacro ===
 Contributors: giorgio79
-Tags: share, addthis, social, bookmark, social bookmarking, button, sharing, bookmarking, widget,AddThis, addtoany, aim, bookmark, buzz, del.icio.us, Digg,e-mail, email, Facebook, google bookmarks, google buzz, myspace,network, NewsVine, Reddit, Share, share this, sharethis, social, socialize, stumbleupon, twitter, windows live, yahoo buzz, plus one, google plus one, plus 1, + one, + 1, money, make money, affiliate, clickbank, onlywire, cash, commission
+Tags: share, addthis, social, bookmark, social bookmarking, button, sharing, bookmarking, widget,AddThis,sharethis,addtoany, aim, bookmark, buzz, del.icio.us, Digg,e-mail, email, Facebook, google bookmarks, google buzz, myspace,network, NewsVine, Reddit, Share, share this, sharethis, social, socialize, stumbleupon, twitter, windows live, yahoo buzz, plus one, google plus one, plus 1, + one, + 1, money, make money, affiliate, clickbank, onlywire, cash, commission
 Requires at least: 3
-Tested up to: 3
+Tested up to: 3.1.3
 Stable tag: 1
 
 The ShareMacro widget empowers your visitors to email, bookmark and share your site with services, such as Facebook, Twitter, StumbleUpon, Digg.. 
@@ -16,7 +16,7 @@ Raising the bar for social widgets, the revolutionary ShareMacro takes sharing a
 <a href="http://www.sharemacro.com/webmasters">ShareMacro Widget</a>**
 
 **Money for Webmasters**<br>
-The ShareMacro widget integrates with our affiliate program, so while your visitors promote your site you could even be making money with this widget at the same time! How? After the sharing is completed by the user, they are redirected to our "Thank you" page with our products for sale through your affiliate link. Also, when your users see the ShareMacro widget on your site, they will likey become curious and click through your affiliate link to our site, and if they decide to subscribe to any of the offerings you will get 50% commission!
+The ShareMacro widget optionally integrates with our affiliate program, so while your visitors promote your site you could even be making money with this widget at the same time! How? After the sharing is completed by the user, they are redirected to our "Thank you" page with our products for sale through your affiliate link. Also, when your users see the ShareMacro widget on your site, they will likey become curious and click through your affiliate link to our site, and if they decide to subscribe to any of the offerings you will get 50% commission!
 
 == Installation ==
 
