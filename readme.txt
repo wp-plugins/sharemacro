@@ -1,7 +1,7 @@
 === ShareMacro ===
 Contributors: giorgio79
 Tags: share, addthis, social, bookmark, social bookmarking, button, sharing, bookmarking, widget,AddThis,sharethis,addtoany, aim, bookmark, buzz, del.icio.us, Digg,e-mail, email, Facebook, google bookmarks, google buzz, myspace,network, NewsVine, Reddit, Share, share this, sharethis, social, socialize, stumbleupon, twitter, windows live, yahoo buzz, plus one, google plus one, plus 1, + one, + 1, money, make money, affiliate, clickbank, onlywire, cash, commission
-Requires at least: 3
+Requires at least: 2.9
 Tested up to: 3.1.3
 Stable tag: 1
 
@@ -10,7 +10,7 @@ The ShareMacro widget empowers your visitors to email, bookmark and share your s
 == Description ==
 
 **Empower Your Visitors**<br>
-Raising the bar for social widgets, the revolutionary ShareMacro takes sharing a step further by automating the process with iMacros, enabling users to share with multiple email, social network, and bookmark services at the same time.
+Raising the bar for social widgets, the revolutionary ShareMacro takes sharing a step further by automating the process with iMacros and enabling users to share with multiple email, social network, and bookmark services at the same time.
 
 **For a demo and more goodies check out<br>
 <a href="http://www.sharemacro.com/webmasters">ShareMacro Widget</a>**
