@@ -10,7 +10,7 @@ The ShareMacro widget empowers your visitors to email, bookmark and share your s
 == Description ==
 
 **Empower Your Visitors**<br>
-Raising the bar for social widgets, the revolutionary ShareMacro takes sharing a step further by automating the process with iMacros, enabling users to share with multiple email, social network, and bookmark services at the same time.
+Raising the bar for social widgets, the revolutionary ShareMacro takes sharing a step further by automating the process with iMacros and enabling users to share with multiple email, social network, and bookmark services at the same time.
 
 **For a demo and more goodies check out<br>
 <a href="http://www.sharemacro.com/webmasters">ShareMacro Widget</a>**
