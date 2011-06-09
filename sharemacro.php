@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: ShareMacro: Share/Bookmark/Email Buttons that also Makes You Money Online
+Plugin Name: ShareMacro: Share/Bookmark/Email Button
 Plugin URI: http://www.sharemacro.com/
-Description: Help people share with http://www.sharemacro.com/
-Version: 1.0
+Description: Empower your users with automated sharing to multiple services. Optionally become an affiliate and make money at the same time. http://www.sharemacro.com/
+Version: 1.0.1
 Author: ShareMacro
 Author URI: http://www.sharemacro.com/
 */
