@@ -3,7 +3,7 @@ Contributors: giorgio79
 Tags: share, addthis, social, bookmark, social bookmarking, button, sharing, bookmarking, bookmarks, widget, widgets,AddThis,sharethis,addtoany, aim, bookmark, buzz, del.icio.us, Digg,e-mail, email, Facebook, google bookmarks, google buzz, myspace,network, NewsVine, Reddit, Share, share this, sharethis, social, socialize, stumbleupon, twitter, windows live, yahoo buzz, plus one, google plus one, plus 1, + one, + 1, money, make money, affiliate, clickbank, onlywire, cash, commission, posts, Post, plugin, admin, sidebar, page, links, automatic
 Requires at least: 2.9
 Tested up to: 3.1.3
-Stable tag: 1
+Stable tag: 1.0.1
 
 The ShareMacro widget empowers your visitors to email, bookmark and share your site with services, such as Facebook, Twitter, StumbleUpon, Digg.. 
 
