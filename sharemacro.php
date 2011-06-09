@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: ShareMacro: Share/Bookmark/Email Button
-Plugin URI: http://www.sharemacro.com/
-Description: Empower your users with automated sharing to multiple services. Optionally become an affiliate and make money at the same time. http://www.sharemacro.com/
+Plugin URI: http://www.sharemacro.com/webmasters
+Description: Empower your users with automated sharing to multiple services. Optionally become an affiliate and make money at the same time. http://www.sharemacro.com/webmasters
 Version: 1.0.1
 Author: ShareMacro
-Author URI: http://www.sharemacro.com/
+Author URI: http://www.sharemacro.com/webmasters
 */
 
 if( !isset($SM_locale) )
