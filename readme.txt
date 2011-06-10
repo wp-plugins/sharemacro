@@ -18,6 +18,11 @@ Raising the bar for social widgets, the revolutionary ShareMacro takes sharing a
 **Money for Webmasters**<br>
 The ShareMacro widget optionally integrates with our affiliate program, so while your visitors promote your site you could even be making money with this widget at the same time! How? After the sharing is completed by the user, they are redirected to our "Thank you" page with our products for sale through your affiliate link. Also, when your users see the ShareMacro widget on your site, they will likely become curious and click through your affiliate link to our site, and if they decide to subscribe to any of the offerings you will get 50% commission!
 
+== Frequently Asked Questions ==
+
+= Are meta tags required? =
+While not required, the plugin attempts to use your meta description and meta keywords to assist your visitor in submitting your page to the services.
+
 == Installation ==
 
 1. Upload the sharemacro directory (including all files within) to the /wp-content/plugins/ directory
