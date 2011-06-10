@@ -8,9 +8,6 @@ Author: ShareMacro
 Author URI: http://www.sharemacro.com/webmasters
 */
 
-if( !isset($SM_locale) )
-	$SM_locale = '';
-
 // Pre-2.6 compatibility
 if ( ! defined('WP_CONTENT_URL') )
 	define( 'WP_CONTENT_URL', get_option('siteurl') . '/wp-content');
