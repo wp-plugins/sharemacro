@@ -3,7 +3,7 @@
 Plugin Name: ShareMacro: Share/Bookmark/Email Button
 Plugin URI: http://www.sharemacro.com/webmasters
 Description: Empower your users with automated sharing to multiple services. Optionally become an affiliate and make money at the same time. http://www.sharemacro.com/webmasters
-Version: 1.0.1
+Version: 1.0.2
 Author: ShareMacro
 Author URI: http://www.sharemacro.com/webmasters
 */
