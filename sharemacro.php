@@ -413,12 +413,6 @@ function mfDevLoadScripts() {
     wp_enqueue_script( 'jquery.widget' );
 }
 
-/*****************************
-		CACHE SHAREMACRO
-******************************/
-
-
-
 
 /*****************************
 		OPTIONS
