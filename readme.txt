@@ -38,4 +38,4 @@ While not required, the plugin attempts to use your meta description and meta ke
 == Changelog ==
 
 = 1.0 =
-* Initial Release *
+Initial Release
