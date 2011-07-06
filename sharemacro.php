@@ -3,7 +3,7 @@
 Plugin Name: ShareMacro: Share/Bookmark/Email Button
 Plugin URI: http://www.sharemacro.com/webmasters
 Description: Empower your users with automated sharing to multiple services. Optionally become an affiliate and make money at the same time. http://www.sharemacro.com/webmasters
-Version: 1.0.2
+Version: 1.0.3
 Author: ShareMacro
 Author URI: http://www.sharemacro.com/webmasters
 */
@@ -627,6 +627,12 @@ function SM_SHARE_SAVE_options_page() {
 						
 				</label><br>
 				<label>
+                	<input name="SM_SHARE_SAVE_button" value="sharemacro_icon_16.gif|16|16|1" type="radio"<?php if( !$options['button'] || $options['button']=='sharemacro_icon_16.gif|16|16|1' ) echo ' checked="checked"'; ?>
+                    	style="margin:9px 0;vertical-align:middle">
+                    <img src="<?php echo $SM_SHARE_SAVE_plugin_url_path.'/sharemacro_icon_16.gif'; ?>" width="16" height="16" border="0" style="padding:9px;vertical-align:middle"
+                    	onclick="this.parentNode.firstChild.checked=true"/>
+                </label><br>
+				<label>
                 	<input name="SM_SHARE_SAVE_button" value="sharemacro_icon_32.gif|32|32" type="radio"<?php if( !$options['button'] || $options['button']=='sharemacro_icon_32.gif|32|32' ) echo ' checked="checked"'; ?>
                     	style="margin:9px 0;vertical-align:middle">
                     <img src="<?php echo $SM_SHARE_SAVE_plugin_url_path.'/sharemacro_icon_32.gif'; ?>" width="32" height="32" border="0" style="padding:9px;vertical-align:middle"
@@ -634,9 +640,7 @@ function SM_SHARE_SAVE_options_page() {
                 </label><br>
 				<label>
                 	<input name="SM_SHARE_SAVE_button" value="TEXT" type="radio"<?php if( !$options['button'] || $options['button']=='TEXT' ) echo ' checked="checked"'; ?> style="margin:9px 0;vertical-align:middle" >
-					<span class="sharemacro-logo "><strong><?php _e("share"); ?></strong><?php _e('macro');?></span>
-					
-                    
+					<span class="sharemacro-logo "><strong><?php _e("share"); ?></strong><?php _e('macro');?></span>                   
                 </label><br/>
 				<label>
                 	<input name="SM_SHARE_SAVE_button" value="CUSTOM" type="radio"<?php if( $options['button'] == 'CUSTOM' ) echo ' checked="checked"'; ?>
