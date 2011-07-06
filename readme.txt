@@ -21,6 +21,7 @@ The ShareMacro widget optionally integrates with our affiliate program, so while
 == Frequently Asked Questions ==
 
 = Are meta tags required? =
+
 While not required, the plugin attempts to use your meta description and meta keywords to assist your visitor in submitting your page to the services.
 
 == Installation ==
