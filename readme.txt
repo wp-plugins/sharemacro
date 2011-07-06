@@ -41,7 +41,6 @@ While not required, the plugin attempts to use your meta description and meta ke
 = 1.0.3 =
 * Added new option, 16*16 icon
 *
-
 = 1.0 =
 * Initial Release
 *
